@@ -8,4 +8,3 @@ This page explains how to properly write LLM system prompting with Langchain.<br
 # Let's Start!
 # 1. Agent 
 [https://github.com/lastime1650/Efficient_System_prompting_for_the_LLM_with_Langchain/blob/main/Agent/_First_ReadMe.MD](https://github.com/lastime1650/Efficient_System_prompting_for_the_LLM_with_Langchain/blob/main/Agent/_First_ReadMe.MD)
-# 2. Normal
