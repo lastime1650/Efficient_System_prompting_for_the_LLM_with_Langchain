@@ -1,2 +1,5 @@
-# 에이전트 랭체인 개발을 위한 System Prompting 방법
+# 에이전트 랭체인 개발을 위한 System Prompting 방법을 알아봅시다.
 
+## 1. ConversationMemoryBuffer에 적용할 전역 시스템 프롬프팅 방법에 관하여...
+
+## 2. 각 Tool에 관한 시스템 프롬프팅 방법에 관하여...
